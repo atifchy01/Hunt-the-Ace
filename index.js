@@ -1,6 +1,6 @@
 //array of all the cards
 const cardObjectDefinitions = [
-    {id:1 , imagePath:'/Images/card-KingHearts.png'},
+    {id:1 , imagePath:'https://i.ibb.co/VS6HLMm/Ace-Spades.png'},
     {id:2 , imagePath:'/Images/card-JackClubs.png'},
     {id:3 , imagePath:'/Images/card-QueenDiamonds.png'},
     {id:4 , imagePath:'/Images/card-AceSpades.png'}
