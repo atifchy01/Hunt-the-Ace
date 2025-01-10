@@ -1,16 +1,16 @@
 //array of all the cards
 const cardObjectDefinitions = [
-    {id:1 , imagePath:'https://i.ibb.co/VS6HLMm/Ace-Spades.png'},
-    {id:2 , imagePath:'/Images/card-JackClubs.png'},
-    {id:3 , imagePath:'/Images/card-QueenDiamonds.png'},
-    {id:4 , imagePath:'/Images/card-AceSpades.png'}
+    {id:1 , imagePath:'https://i.ibb.co/jH7r9bh/card-King-Hearts.png'},
+    {id:2 , imagePath:'https://i.ibb.co/jLX3zqQ/card-Jack-Clubs.png'},
+    {id:3 , imagePath:'https://i.ibb.co/p3knS92/card-Queen-Diamonds.png'},
+    {id:4 , imagePath:'https://i.ibb.co/nnkSY2s/card-Ace-Spades.png'}
 ]
 
 // correct card to choose ID
 aceId = 4
 
 //src to back of the card
-const cardBackImgPath = '/Images/card-back-Blue.png'
+const cardBackImgPath = 'https://i.ibb.co/1qy5FqK/card-back-Blue.png'
 
 // reference to card container element
 const cardContainerElem = document.querySelector('.card-container')
