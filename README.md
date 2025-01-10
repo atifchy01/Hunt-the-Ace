@@ -25,13 +25,13 @@
 
 ---
 
-## Play the Game 🌐
+## Play the Game
 
 [**Hunt the Ace - Live Game**](https://atifchy01.github.io/Hunt-the-Ace/)
 
 ---
 
-## Technologies Used 💻
+## Technologies Used
 
 - **HTML**: For the structure and layout of the game.  
 - **CSS**: For styling and animations, including card flipping effects.  
